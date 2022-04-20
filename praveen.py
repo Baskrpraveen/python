@@ -1,4 +1,4 @@
-x=int(input("enter an number"))
-y=int(input("eter second number"))
+x=45
+y=78
 print("sum of numbers is :",x+y)
 
